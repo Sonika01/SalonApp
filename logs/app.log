@@ -1,0 +1,49 @@
+2021-06-21 09:14:02,396 INFO com.SalonAppApplication [main] Starting SalonAppApplication using Java 16.0.1 on LAPTOP-DCG9HPGI with PID 6472 (C:\Users\SONIKA REDDY\Desktop\SalonApp\bin\main started by SONIKA REDDY in C:\Users\SONIKA REDDY\Desktop\SalonApp)
+2021-06-21 09:14:02,509 INFO com.SalonAppApplication [main] No active profile set, falling back to default profiles: default
+2021-06-21 09:14:02,368 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-06-21 09:14:06,868 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-06-21 09:14:08,574 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 1650 ms. Found 6 JPA repository interfaces.
+2021-06-21 09:14:17,786 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8089 (http)
+2021-06-21 09:14:17,861 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8089"]
+2021-06-21 09:14:17,862 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-21 09:14:17,863 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-21 09:14:18,352 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-21 09:14:18,353 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 15583 ms
+2021-06-21 09:14:19,025 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-21 09:14:21,862 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-21 09:14:23,056 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-21 09:14:23,359 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-06-21 09:14:24,182 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-21 09:14:24,824 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-06-21 09:14:35,782 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-21 09:14:35,923 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-06-21 09:14:39,188 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-06-21 09:14:42,594 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8089"]
+2021-06-21 09:14:43,102 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8089 (http) with context path ''
+2021-06-21 09:14:44,775 INFO com.SalonAppApplication [main] Started SalonAppApplication in 43.697 seconds (JVM running for 45.615)
+2021-06-21 09:39:33,215 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8089-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-21 09:39:33,254 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8089-exec-3] Initializing Servlet 'dispatcherServlet'
+2021-06-21 09:39:33,273 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8089-exec-3] Completed initialization in 19 ms
+2021-06-21 20:09:28,531 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-06-21 20:09:28,549 INFO com.SalonAppApplication [main] Starting SalonAppApplication using Java 16.0.1 on LAPTOP-DCG9HPGI with PID 12784 (C:\Users\SONIKA REDDY\Desktop\SalonApp\bin\main started by SONIKA REDDY in C:\Users\SONIKA REDDY\Desktop\SalonApp)
+2021-06-21 20:09:28,553 INFO com.SalonAppApplication [main] No active profile set, falling back to default profiles: default
+2021-06-21 20:09:34,488 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-06-21 20:09:35,714 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 1159 ms. Found 6 JPA repository interfaces.
+2021-06-21 20:09:40,495 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8089 (http)
+2021-06-21 20:09:40,671 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8089"]
+2021-06-21 20:09:40,672 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-21 20:09:40,674 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-21 20:09:41,111 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-21 20:09:41,112 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 12419 ms
+2021-06-21 20:09:41,592 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-06-21 20:09:45,308 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-06-21 20:09:46,376 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-21 20:09:46,681 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-06-21 20:09:47,351 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-21 20:09:47,831 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-06-21 20:09:54,146 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-21 20:09:54,191 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-06-21 20:09:56,863 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-06-21 20:09:59,622 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8089"]
+2021-06-21 20:09:59,909 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8089 (http) with context path ''
+2021-06-21 20:10:01,695 INFO com.SalonAppApplication [main] Started SalonAppApplication in 34.004 seconds (JVM running for 35.637)
